@@ -28,10 +28,41 @@
 
 ---
 
+## 💼 Work Experience  
+- 👨‍💻 **Software Development Industry (Internship)**
+  - Worked at Plum Systems as a Web Developer
+  - Contributed in the API Property project using languages like PHP, Joomla 3 & 5, Docker, Less, CSS, HTML5 and JavaScript 
+  - Participated in group and individual contributions
+ 
+- 👨‍💻 **Software Development Projects (Academic & Group-based)**  
+  - Designed and developed **flight booking systems, employee tracking databases, and timetable apps**.  
+  - Collaborated using **Git/GitHub/GitLab** for version control and teamwork.  
+  - Implemented **UI/UX interfaces** with Java Swing, React, and Vue.js.  
+  - Integrated **Stripe payment gateway** and REST APIs into applications.  
+
+- 🧑‍🤝‍🧑 **Team Leadership**  
+  - Led group projects, assigned tasks, and ensured deliverables met academic rubrics.  
+  - Assisted teammates with debugging, UML diagrams, and SQL schema design.  
+  - Compiled final documentation (ERDs, normalization, reports, and Gantt charts).  
+
+- 🛠 **Freelance-Style Learning Projects**  
+  - Built small **client-server systems** using React +  Java + Spring Boot.  
+  - Practiced deploying apps (React + Spring Boot + MySQL) to test cloud hosting.  
+  - Gained hands-on experience with **Agile methodologies** and project planning.  
+
+---
+
 ## ⚡ Tech Playground  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,vue,mysql,sqlite,html,css,js,git,github,postman" />
 </p>
+
+---
+
+## 🛠 Version Control Knowledge  
+- 📌 **Git** — branching, merging, rebasing, resolving conflicts  
+- 📌 **GitHub** — collaboration, pull requests, issues, CI/CD integrations  
+- 📌 **GitLab** — repository hosting, pipelines, and DevOps workflows  
 
 ---
 
