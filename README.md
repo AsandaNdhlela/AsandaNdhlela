@@ -21,7 +21,7 @@
 - 📖 **ICT Student** — building cool projects like:  
   - 📅 Time Table Systems (Java + Swing + SQL Derby)
   - 🛒 Student Market Place (React + Vite + Java + MySQL + Stripe Payment)
-  - 🛒 Borrow, Buy or Rent Application (React Native + Vite + Java + MySQL) 
+  - 🛒 Borrow, Buy or Rent Application (React Native + Expo Go + Java + MySQL) 
   - 📝 Interactive Quiz Platform (Vue JS + Spring Boot)  
 
 - 💡 The above mentioned projects explore **Databases, Rest APIs, Third party integration, Client-Server application, and Web Security**  
