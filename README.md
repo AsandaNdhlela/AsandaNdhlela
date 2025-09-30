@@ -13,16 +13,18 @@
 - 🚀 Full-stack adventurer (Java | Spring Boot | React | SQL)  
 - 🍪 Fueled by coffee & snacks (debugging level: *god mode*)  
 - 🎮 When not coding: you’ll find me gaming, binging memes, or learning new tech  
-- ✨ Motto: *“Ship it now, fix it later!”*  
+- ✨ Motto: *“If I created it, then I know it!”*  
 
 ---
 
 ## 🎓 Education  
-- 📖 **Software Engineering Student** — building cool projects like:  
-  - ✈️ Flight Booking System (Java + SQL)  
-  - 📝 Interactive Quiz Platform (React + Spring Boot)  
-  - 🍳 “Your Personal Chef” web app (case study project)  
-- 💡 Always exploring **Databases, APIs, and Cloud Deployments**  
+- 📖 **ICT Student** — building cool projects like:  
+  - 📅 Time Table Systems (Java + Swing + SQL Derby)
+  - 🛒 Student Market Place (React + Vite + Java + MySQL + Stripe Payment)
+  - 🛒 Borrow, Buy or Rent Application (React Native + Vite + Java + MySQL) 
+  - 📝 Interactive Quiz Platform (Vue JS + Spring Boot)  
+
+- 💡 The above mentioned projects explore **Databases, Rest APIs, Third party integration, Client-Server application, and Web Security**  
 
 ---
 
