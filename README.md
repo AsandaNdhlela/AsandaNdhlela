@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">Hey there, I'm Joe 👋</h1>
+<h1 align="center">Hey there, I'm Asanda Ndhlela 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 </p>
