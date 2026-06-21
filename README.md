@@ -20,30 +20,30 @@
 
 ## 🎓 Education  
 - 📖 **Advanced Diploma in ICT: Application Development** — Cape Peninsula University of Technology (In Progress)
-- 🎓 **Diploma in ICT: Application Development** — Cape Peninsula University of Technology[cite: 5]
+- 🎓 **Diploma in ICT: Application Development** — Cape Peninsula University of Technology
 
 ### 💡 Featured Architectures Built:
-- 🛒 **Student Trade Marketplace Platform** (Java + Spring Boot + React + MySQL + Stripe Payment API)[cite: 5]
-  - *A secure full-stack ecosystem leveraging explicit backend parameters validation and trusted end-to-end checkout processing[cite: 5].*
-- 📅 **Timetable Management System** (Java + Spring Boot + MySQL)[cite: 5]
-  - *An automated, scalable scheduling application deploying strict Object-Oriented Programming (OOP) paradigms to resolve data conflict limits[cite: 5].*
+- 🛒 **Student Trade Marketplace Platform** (Java + Spring Boot + React + MySQL + Stripe Payment API)
+  - *A secure full-stack ecosystem leveraging explicit backend parameters validation and trusted end-to-end checkout processing
+- 📅 **Timetable Management System** (Java + Spring Boot + MySQL)
+  - *An automated, scalable scheduling application deploying strict Object-Oriented Programming (OOP) paradigms to resolve data conflict limits
 - 📱 **Borrow, Buy or Rent Application** (React Native + Expo Go + Java + MySQL)
 - 📝 **Interactive Quiz Platform** (Vue JS + Spring Boot)  
 
-> 🚀 These projects explore **Cloud-Native Design, Relational Database Constraints, REST APIs, Third-Party Integrations, Client-Server Scalability, and Web Security**[cite: 5].
+> 🚀 These projects explore **Cloud-Native Design, Relational Database Constraints, REST APIs, Third-Party Integrations, Client-Server Scalability, and Web Security**..
 
 ---
 
 ## 💼 Professional Background  
-- 👨‍💻 **Web Developer Intern** — **Plum Systems** *(Feb 2025 – Dec 2025)*[cite: 5]
-  - Contributed to production-grade web systems, writing maintainable logic while guaranteeing runtime performance and structural SEO optimization[cite: 5].
-  - Collaborated inside cross-functional agile squads to map strategic business priorities into modular, clean software components[cite: 5].
+- 👨‍💻 **Web Developer Intern** — **Plum Systems** *(Feb 2025 – Dec 2025)*
+  - Contributed to production-grade web systems, writing maintainable logic while guaranteeing runtime performance and structural SEO optimization.
+  - Collaborated inside cross-functional agile squads to map strategic business priorities into modular, clean software components.
   - Leveraged a diverse stack including PHP, Joomla, Docker, JavaScript, Less, and HTML5.
  
 - 🧑‍🤝‍🧑 **Team Leadership & System Analysis (Academic)**  
-  - Led agile group project configurations, managing documentation across full software development lifecycles (SDLC)[cite: 5].
+  - Led agile group project configurations, managing documentation across full software development lifecycles (SDLC).
   - Compiled robust project artifacts (UML schemas, ERDs, database normalization, and Gantt tracking charts).
-  - Actively assisted peer developers with system testing, schematic bug tracking, and code refactoring workflows[cite: 5].
+  - Actively assisted peer developers with system testing, schematic bug tracking, and code refactoring workflows.
 
 ---
 
@@ -52,16 +52,16 @@
   <img src="https://skillicons.dev/icons?i=java,spring,aws,react,vue,js,ts,tailwind,mysql,sqlite,git,github,postman,docker,linux" />
 </p>
 
-- ☁️ **Cloud Frameworks:** AWS Certified (Core Cloud Concepts, Architecture, Governance & Security)[cite: 5]
-- 💻 **Backend / Core:** Java, Python, C#, SQL, .NET 8, Spring Boot, REST APIs[cite: 5]
-- 🎨 **Frontend Tools:** TypeScript, React, Vue JS, Tailwind CSS, HTML5, CSS3[cite: 5]
+- ☁️ **Cloud Frameworks:** AWS Certified (Core Cloud Concepts, Architecture, Governance & Security)
+- 💻 **Backend / Core:** Java, Python, C#, SQL, .NET 8, Spring Boot, REST APIs
+- 🎨 **Frontend Tools:** TypeScript, React, Vue JS, Tailwind CSS, HTML5, CSS3
 
 ---
 
 ## 🛠 Version Control & DevOps Knowledge  
 - 📌 **Git** — Branching strategies, structural merging, rebasing, and clean conflict resolution.  
-- 📌 **GitHub / GitLab** — Pull requests, collaborative peer reviews, issue tracking, and automated pipelines[cite: 5].  
-- 📌 **Environments:** Managing microservices architecture and runtime dependencies across Linux basics and containerized Docker images[cite: 5].
+- 📌 **GitHub / GitLab** — Pull requests, collaborative peer reviews, issue tracking, and automated pipelines.  
+- 📌 **Environments:** Managing microservices architecture and runtime dependencies across Linux basics and containerized Docker images.
 
 ---
 
