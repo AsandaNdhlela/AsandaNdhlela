@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey+there!+I'm+Asanda+Ndhlela;Software&Cloud+Engineer+🚀;Coffee+%2B+Code+%3D+Life;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Hey+there!+I'm+Asanda+Ndhlela;Software+%26+Cloud+Engineer+🚀;Coffee+%2B+Code+%3D+Life;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 <!-- Banner / Header -->
 <h1 align="center">Welcome to my GitHub 👋</h1>
